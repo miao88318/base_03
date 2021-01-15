@@ -1,0 +1,10 @@
+2021-01-14 14:11:11,467-DEBUG-[log01.py-(hello()-:8行)]---debug信息
+2021-01-14 14:11:11,472-INFO-[log01.py-(hello()-:9行)]---info信息
+2021-01-14 14:11:11,472-WARNING-[log01.py-(hello()-:10行)]---warning信息
+2021-01-14 14:11:11,473-ERROR-[log01.py-(hello()-:11行)]---error信息
+2021-01-14 14:11:11,473-CRITICAL-[log01.py-(hello()-:12行)]---critical信息
+2021-01-14 14:11:29,795-DEBUG-[log01.py-(hello()-:8行)]---debug信息
+2021-01-14 14:11:29,795-INFO-[log01.py-(hello()-:9行)]---info信息
+2021-01-14 14:11:29,795-WARNING-[log01.py-(hello()-:10行)]---warning信息
+2021-01-14 14:11:29,796-ERROR-[log01.py-(hello()-:11行)]---error信息
+2021-01-14 14:11:29,796-CRITICAL-[log01.py-(hello()-:12行)]---critical信息

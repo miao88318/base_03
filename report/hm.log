@@ -1,0 +1,32 @@
+info
+error
+critical
+info
+error
+critical
+info
+error
+critical
+2021-01-14 15:31:02,913-INFO-[log06.py-(hello()-:21行)]---info信息
+2021-01-14 15:31:02,914-WARNING-[log06.py-(hello()-:22行)]---warning信息
+2021-01-14 15:31:02,914-ERROR-[log06.py-(hello()-:23行)]---error信息
+2021-01-14 15:31:02,915-CRITICAL-[log06.py-(hello()-:24行)]---critical信息
+2021-01-14 15:35:01,256-INFO-[log06.py-(hello()-:22行)]---info信息
+2021-01-14 15:35:01,257-WARNING-[log06.py-(hello()-:23行)]---warning信息
+2021-01-14 15:35:01,257-ERROR-[log06.py-(hello()-:24行)]---error信息
+2021-01-14 15:35:01,257-CRITICAL-[log06.py-(hello()-:25行)]---critical信息
+2021-01-14 15:38:11,121-DEBUG-[log06.py-(hello()-:24行)]---debug信息
+2021-01-14 15:38:11,126-INFO-[log06.py-(hello()-:25行)]---info信息
+2021-01-14 15:38:11,126-WARNING-[log06.py-(hello()-:26行)]---warning信息
+2021-01-14 15:38:11,126-ERROR-[log06.py-(hello()-:27行)]---error信息
+2021-01-14 15:38:11,126-CRITICAL-[log06.py-(hello()-:28行)]---critical信息
+2021-01-14 15:38:53,538-DEBUG-[log06.py-(hello()-:24行)]---debug信息
+2021-01-14 15:38:53,539-INFO-[log06.py-(hello()-:25行)]---info信息
+2021-01-14 15:38:53,539-WARNING-[log06.py-(hello()-:26行)]---warning信息
+2021-01-14 15:38:53,539-ERROR-[log06.py-(hello()-:27行)]---error信息
+2021-01-14 15:38:53,539-CRITICAL-[log06.py-(hello()-:28行)]---critical信息
+2021-01-14 16:06:36,893-DEBUG-[log06.py-(<module>()-:22行)]--->debug信息
+2021-01-14 16:06:36,896-INFO-[log06.py-(<module>()-:23行)]--->info信息
+2021-01-14 16:06:36,896-WARNING-[log06.py-(<module>()-:24行)]--->warning信息
+2021-01-14 16:06:36,896-ERROR-[log06.py-(<module>()-:25行)]--->error信息
+2021-01-14 16:06:36,896-CRITICAL-[log06.py-(<module>()-:26行)]--->critical信息
